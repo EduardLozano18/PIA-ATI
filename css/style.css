@@ -588,6 +588,39 @@ body{
     line-height: 20px;
 }
 
+.funda{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.funda a{
+    color: #30353b;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.funda2 a{
+    color: #f4bd76;
+    text-decoration: none;
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.funda h3{
+    color: #F4bd76;
+    font-size: 25px;
+}
+
+.img-team{
+    height: 80px;
+
+}
+
 @media screen and (max-width:900px)  {
     
     .mockup{
